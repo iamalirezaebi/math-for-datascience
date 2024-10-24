@@ -14,6 +14,6 @@
 ### 3.2. Example 2: Reflect a 2D point across the y-axis using a reflection matrix.
 ### 4. Apply scaling and rotation transformations to a square shape and visualize the results.
 ## week4c1
-### 1. use Python to find eigenvalues and eigenvectors.
-### 2. visualize and interpret eigenvalues and eigenvectos.
-### 3. apply linear transformations, eigenvalues and eigenvectors in a webpage navigation model.
+### 1. Use Python to find eigenvalues and eigenvectors.
+### 2. Visualize and interpret eigenvalues and eigenvectos.
+### 3. Apply linear transformations, eigenvalues and eigenvectors in a webpage navigation model.
