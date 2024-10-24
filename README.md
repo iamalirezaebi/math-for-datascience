@@ -30,3 +30,6 @@
 #### 4.1. Introduction to JAX.
 #### 4.2. Automatic Differentiation with JAX.
 #### 5. grad(f): Computes the derivative of function f(x) using JAX’s automatic differentiation.
+## week2c2
+#### 1. Gradient descent in function with One Global Minimum.
+#### 2. Gradient descent in function with Multiple Minima.
