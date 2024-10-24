@@ -31,5 +31,7 @@
 #### 4.2. Automatic Differentiation with JAX.
 #### 5. grad(f): Computes the derivative of function f(x) using JAX’s automatic differentiation.
 ## week2c2
-#### 1. Gradient descent in function with One Global Minimum.
-#### 2. Gradient descent in function with Multiple Minima.
+#### 1. Gradient Descent for One Variable with Global Minimum: Uses gradient descent to find the global minimum of f( x )=x ** 2.
+#### 2. Gradient Descent for One Variable with Multiple Minima: Uses gradient descent to find a local minimum of f(x)=cos(x), depending on the initial starting point.
+#### 3. Gradient Descent for Two Variables with Global Minimum: Applies gradient descent to minimize f( x , y )= x ** 2 + y ** 2 finding the global minmimum at ( 0 , 0 ).
+#### 4. Gradient Descent for Two Variables with Multiple Minima: Uses gradient descent on the Rosenbrock function to find a local minimum in a complex landscape.
