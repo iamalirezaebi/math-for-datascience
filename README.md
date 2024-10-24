@@ -17,3 +17,16 @@
 #### 1. Use Python to find eigenvalues and eigenvectors.
 #### 2. Visualize and interpret eigenvalues and eigenvectos.
 #### 3. Apply linear transformations, eigenvalues and eigenvectors in a webpage navigation model.
+## week1c2
+#### 1. Functions in Python
+#### 2. Symbolic Differentiation
+#### 2.1. Introduction to Symbolic Computation with SymPy
+#### 2.2. Symbolic Differentiation with SymPy
+#### 2.3. Limitations of Symbolic Differentiation
+#### 3. Numerical Differentiation
+#### 3.1. Numerical Differentiation with NumPy
+#### 3.2. Limitations of Numerical Differentiation
+#### 4. Automatic Differentiation
+#### 4.1. Introduction to JAX
+#### 4.2. Automatic Differentiation with JAX
+#### 5 - Computational Efficiency of Symbolic, Numerical and Automatic Differentiation
