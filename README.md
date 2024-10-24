@@ -35,3 +35,7 @@
 #### 2. Gradient Descent for One Variable with Multiple Minima: Uses gradient descent to find a local minimum of f(x)=cos(x), depending on the initial starting point.
 #### 3. Gradient Descent for Two Variables with Global Minimum: Applies gradient descent to minimize f( x , y )= x ** 2 + y ** 2 finding the global minmimum at ( 0 , 0 ).
 #### 4. Gradient Descent for Two Variables with Multiple Minima: Uses gradient descent on the Rosenbrock function to find a local minimum in a complex landscape.
+## week3c2
+#### 1. Implement a neural network with two layers to a classification problem: Define a two-layer neural network with ReLU in the hidden layer and softmax in the output layer for classification.
+#### 2. Implement forward propagation using matrix multiplication: Perform forward propagation by calculating the linear combination of inputs and weights, applying ReLU and softmax for the hidden and output layers respectively.
+#### 3. Perform backward propagation: Use the chain rule to compute gradients of the loss with respect to weights and biases, applying ReLU and softmax derivatives for gradient updates.
