@@ -12,4 +12,4 @@
 ### 3. Perform a 2D rotation transformation using matrix multiplication.
 ### 3.1. Example 1: Apply horizontal scaling to a point, scaling only the x-coordinate.
 ### 3.2. Example 2: Reflect a 2D point across the y-axis using a reflection matrix.
-### 5. Apply scaling and rotation transformations to a square shape and visualize the results.
+### 4. Apply scaling and rotation transformations to a square shape and visualize the results.
