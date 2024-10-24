@@ -10,6 +10,6 @@
 ### 1. Translate a point in 2D space using a translation vector.
 ### 2. Apply a scaling transformation to a 2D point using a scaling matrix.
 ### 3. Perform a 2D rotation transformation using matrix multiplication.
-### 4.1. Example 1: Apply horizontal scaling to a point, scaling only the x-coordinate.
-### 4.2. Example 2: Reflect a 2D point across the y-axis using a reflection matrix.
+### 3.1. Example 1: Apply horizontal scaling to a point, scaling only the x-coordinate.
+### 3.2. Example 2: Reflect a 2D point across the y-axis using a reflection matrix.
 ### 5. Apply scaling and rotation transformations to a square shape and visualize the results.
