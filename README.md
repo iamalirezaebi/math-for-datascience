@@ -18,15 +18,15 @@
 #### 2. Visualize and interpret eigenvalues and eigenvectos.
 #### 3. Apply linear transformations, eigenvalues and eigenvectors in a webpage navigation model.
 ## week1c2
-#### 1. Functions in Python
-#### 2. Symbolic Differentiation
-#### 2.1. Introduction to Symbolic Computation with SymPy
-#### 2.2. Symbolic Differentiation with SymPy
-#### 2.3. Limitations of Symbolic Differentiation
-#### 3. Numerical Differentiation
-#### 3.1. Numerical Differentiation with NumPy
-#### 3.2. Limitations of Numerical Differentiation
-#### 4. Automatic Differentiation
-#### 4.1. Introduction to JAX
-#### 4.2. Automatic Differentiation with JAX
-#### 5 - Computational Efficiency of Symbolic, Numerical and Automatic Differentiation
+#### 1. Functions in Python my_function(x): Returns the result of the quadratic expression  x**2 + 2x + 1.
+#### 2. Symbolic Differentiation.
+#### 2.1. Introduction to Symbolic Computation with SymPy.
+#### 2.2. sp.diff(expression, x): Computes the symbolic derivative of the expression with respect to x. and expression: Defines a symbolic quadratic expression  x**2 + 2x + 1 using SymPy.
+#### 2.3. Limitations of Symbolic Differentiation.
+#### 3. Numerical Differentiation.
+#### 3.1. (f(x0 + h) - f(x0)) / h: Approximates the numerical derivative of a function using the forward difference method.
+#### 3.2. Limitations of Numerical Differentiation.
+#### 4. Automatic Differentiation.
+#### 4.1. Introduction to JAX.
+#### 4.2. Automatic Differentiation with JAX.
+#### 5. grad(f): Computes the derivative of function f(x) using JAX’s automatic differentiation.
