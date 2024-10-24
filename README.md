@@ -24,7 +24,7 @@
 #### 2.2. sp.diff(expression, x): Computes the symbolic derivative of the expression with respect to x. and expression: Defines a symbolic quadratic expression  x**2 + 2x + 1 using SymPy.
 #### 2.3. Limitations of Symbolic Differentiation.
 #### 3. Numerical Differentiation.
-#### 3.1. (f(x0 + h) - f(x0)) / h: Approximates the numerical derivative of a function using the forward difference method.
+#### 3.1. ( f( x0 + h ) - f( x0 )) / h: Approximates the numerical derivative of a function using the forward difference method.
 #### 3.2. Limitations of Numerical Differentiation.
 #### 4. Automatic Differentiation.
 #### 4.1. Introduction to JAX.
